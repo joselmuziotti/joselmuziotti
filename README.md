@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hello everyone! 👋
 
 I’m **Jose Luis Muziotti**, a tech enthusiast and programming lover taking my first steps into this exciting digital world. With a curious mind, eager to learn, and participate in innovative projects that challenge my skills and allow me to grow professionally.
@@ -14,9 +13,7 @@ I’m here to learn, grow, and contribute meaningfully to projects that I’m pa
 Feel free to contact me if you have an exciting project where you think I can collaborate!
 
 **Thank you for visiting my profile!**
-
-
-# 💫 Sobre Mi:
+#
 # ¡Hola a todos! 👋
 
 Soy **Jose Luis Muziotti**, un apasionado de la tecnología y entusiasta de la programación que está dando sus primeros pasos en este emocionante mundo digital. Con una mente inquieta y ansioso por aprender y participar en proyectos innovadores que desafíen mis habilidades y me permitan crecer como profesional.
