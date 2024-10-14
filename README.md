@@ -13,7 +13,7 @@ I’m here to learn, grow, and contribute meaningfully to projects that I’m pa
 Feel free to contact me if you have an exciting project where you think I can collaborate!
 
 **Thank you for visiting my profile!**
-#
+
 # ¡Hola a todos! 👋
 
 Soy **Jose Luis Muziotti**, un apasionado de la tecnología y entusiasta de la programación que está dando sus primeros pasos en este emocionante mundo digital. Con una mente inquieta y ansioso por aprender y participar en proyectos innovadores que desafíen mis habilidades y me permitan crecer como profesional.
