@@ -1,5 +1,37 @@
 # 💫 About Me:
-¡Hola a todos! 👋<br>Soy Jose Luis Muziotti, un apasionado de la tecnología y entusiasta de la programación que está dando sus primeros pasos en este emocionante mundo digital. Con una mente inquieta y ansioso por aprender y participar en proyectos innovadores que desafíen mis habilidades y me permitan crecer como profesional.<br><br>Aunque soy nuevo en el campo de la programación, mi entusiasmo y dedicación son incomparables. Estoy constantemente explorando nuevas tecnologías y adquiriendo conocimientos a través de cursos en línea, tutoriales y proyectos personales. Mi determinación y mentalidad de "aprender haciendo" me impulsan a superar cualquier obstáculo que se presente en mi camino hacia el dominio de la programación.<br><br>Estoy especialmente interesado en Front-End pero abierto a explorar el Back-End, y estoy emocionado por la oportunidad de colaborar en proyectos que aborden desafíos emocionantes y contribuyan al avance de la tecnología.<br><br>Más allá de mi pasión por la programación, soy un piloto aereo licenciado y responsable, lo que me brinda una perspectiva única y la capacidad de trabajar de manera efectiva en equipos multidisciplinarios.<br><br>Estoy aquí para aprender, crecer y contribuir de manera significativa en proyectos que me apasionen. ¡Estoy emocionado por las oportunidades que el mundo de la programación tiene para ofrecer y ansioso por embarcarme en este viaje junto a ustedes!<br><br>¡No dudes en contactarme si tienes un proyecto emocionante en el que creas que puedo colaborar!<br><br>¡Gracias por visitar mi perfil!
+# Hello everyone! 👋
+
+I’m **Jose Luis Muziotti**, a tech enthusiast and programming lover taking my first steps into this exciting digital world. With a curious mind, eager to learn, and participate in innovative projects that challenge my skills and allow me to grow professionally.
+
+Although I’m new to the field of programming, my enthusiasm and dedication are unparalleled. I’m constantly exploring new technologies and acquiring knowledge through online courses, tutorials, and personal projects. My determination and *"learning by doing"* mindset drive me to overcome any obstacles on my path to mastering programming.
+
+I’m particularly interested in **Front-End** but open to exploring **Back-End** as well, and I’m excited about the opportunity to collaborate on projects that tackle exciting challenges and contribute to technological advancement.
+
+Beyond my passion for programming, I am also a licensed and responsible pilot, which gives me a unique perspective and the ability to work effectively in multidisciplinary teams.
+
+I’m here to learn, grow, and contribute meaningfully to projects that I’m passionate about. I’m excited about the opportunities the world of programming has to offer and eager to embark on this journey with you!
+
+Feel free to contact me if you have an exciting project where you think I can collaborate!
+
+**Thank you for visiting my profile!**
+
+
+# 💫 Sobre Mi:
+# ¡Hola a todos! 👋
+
+Soy **Jose Luis Muziotti**, un apasionado de la tecnología y entusiasta de la programación que está dando sus primeros pasos en este emocionante mundo digital. Con una mente inquieta y ansioso por aprender y participar en proyectos innovadores que desafíen mis habilidades y me permitan crecer como profesional.
+
+Aunque soy nuevo en el campo de la programación, mi entusiasmo y dedicación son incomparables. Estoy constantemente explorando nuevas tecnologías y adquiriendo conocimientos a través de cursos en línea, tutoriales y proyectos personales. Mi determinación y mentalidad de *"aprender haciendo"* me impulsan a superar cualquier obstáculo que se presente en mi camino hacia el dominio de la programación.
+
+Estoy especialmente interesado en **Front-End** pero abierto a explorar **Back-End**, y estoy emocionado por la oportunidad de colaborar en proyectos que aborden desafíos emocionantes y contribuyan al avance de la tecnología.
+
+Más allá de mi pasión por la programación, soy un piloto aéreo licenciado y responsable, lo que me brinda una perspectiva única y la capacidad de trabajar de manera efectiva en equipos multidisciplinarios.
+
+Estoy aquí para aprender, crecer y contribuir de manera significativa en proyectos que me apasionen. ¡Estoy emocionado por las oportunidades que el mundo de la programación tiene para ofrecer y ansioso por embarcarme en este viaje junto a ustedes!
+
+¡No dudes en contactarme si tienes un proyecto emocionante en el que creas que puedo colaborar!
+
+**¡Gracias por visitar mi perfil!**
 
 
 ## 🌐 Socials:
